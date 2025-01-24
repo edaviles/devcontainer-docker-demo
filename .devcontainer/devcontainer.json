@@ -10,6 +10,5 @@
     "ms-dotnettools.csharp",
     "ms-vscode.vscode-node-azure-pack"
   ],
-  "postCreateCommand": "dotnet restore",
   "remoteUser": "vscode"
 }
